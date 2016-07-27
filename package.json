@@ -1,0 +1,17 @@
+{
+  "name": "recorrencia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit tests.js"
+  },
+  "author": "Renato Gama <renato@gammasoft.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.0",
+    "moment": "^2.14.1",
+    "rrule": "^2.1.0",
+    "underscore": "^1.8.3"
+  }
+}
